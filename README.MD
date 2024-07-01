@@ -134,15 +134,13 @@ The scenarios which I have tried to cover and present in below files
 
 I have used testNG and its annotation to write the automation test
 
-### Execution Logs:
-
-Execution Video:
-
+### Post Execution :
 
 Logs:
-
+https://github.com/vinaygupta2050/leantechTestAutomationSuite/blob/main/logs/logfile.log
 
 Reports:
+https://github.com/vinaygupta2050/leantechTestAutomationSuite/blob/main/readmeImages/SampleReports.png
 
 Note: Considering Time frame I have use plain testNG reports but we can also use Extent or Allure reports for deep analysis at one place
 ## Authors
