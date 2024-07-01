@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Parallel Test Suite">
+    <listeners>
+        <listener class-name="com.saucelab.listeners.TestListeners"></listener>
+    </listeners>
+    <test name = "LeanTechTestAutomationSuite">
+        <classes>
+            <class name = "com.saucelab.test.ProductCheckoutFlowTest" />
+        </classes>
+    </test>
+</suite>
